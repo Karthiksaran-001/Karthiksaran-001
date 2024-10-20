@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Analyst<br>👯 I’m looking to collaborate on Machine Learning Works<br>🌱 I’m currently learning Transformer , LLM , Big Data<br>💬 Ask me about Python , SQL , Statistics , Machine Learning , NLP , CV<br>📧 Reach me out mailmekarthik001@gmail.com
+🔭 I’m currently working on Data Scientist<br>👯 I’m looking to collaborate on Challenging AI Works<br>🌱 I’m currently Working on Transformer , LLM , Big Data<br>💬 Ask me about Python , SQL , Statistics , Machine Learning , NLP , CV , LLM<br>📧 Reach me out mailmekarthik001@gmail.com
 
 
 ## 🌐 Socials:
